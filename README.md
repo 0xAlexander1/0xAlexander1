@@ -1,4 +1,4 @@
-👋 Hi, I’m @CryptoCipherMaster
+👋 Hi, I’m @0xAlexander1
 👀 I’m interested in cryptocurrency cryptography and computer security.
 🌱 I’m currently learning about digital signature algorithms and blockchain technologies.
 💞️ I’m looking to collaborate on projects addressing security and privacy in the cryptocurrency space.
